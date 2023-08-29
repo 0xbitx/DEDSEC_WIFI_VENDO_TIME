@@ -1,4 +1,4 @@
-<h1 align="center"> DDEDSEC_WIFI_VENDO_TIME</h1>
+<h1 align="center"> DEDSEC_WIFI_VENDO_TIME</h1>
 <h4 align="center">Dedsec_wifi_vendo_time is a time stealer exploit for wifi vendo machine </h4>
 
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
