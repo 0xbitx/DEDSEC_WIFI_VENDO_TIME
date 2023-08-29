@@ -1,3 +1,7 @@
+
+<p align="center">
+<img src="https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME/blob/main/banner.png", width="500", height="500">
+</p>
 <h1 align="center"> DEDSEC_WIFI_VENDO_TIME</h1>
 <h4 align="center">Dedsec_wifi_vendo_time is a time stealer exploit for wifi vendo machine </h4>
 
