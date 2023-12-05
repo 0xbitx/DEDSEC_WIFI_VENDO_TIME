@@ -9,7 +9,7 @@
 * git clone https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME.git
 * cd DEDSEC_WIFI_VENDO_TIME
 * sudo pip3 tabulate pystyle pycryptodome 
-* sudo python3 dedsec_vendo_time.py
+* sudo ./dedsec_vendo_time
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
