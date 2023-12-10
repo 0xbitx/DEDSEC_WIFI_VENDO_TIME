@@ -8,7 +8,8 @@
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME.git
 * cd DEDSEC_WIFI_VENDO_TIME
-* sudo pip3 tabulate pystyle pycryptodome 
+* sudo pip3 tabulate pystyle
+* chmod +x dedsec_vendo_time
 * sudo ./dedsec_vendo_time
 
 ### TESTED ON FOLLOWING
